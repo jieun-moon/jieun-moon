@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 ![Static Badge](https://img.shields.io/badge/jira-%230052CC?style=flat-square&logo=jira&logoColor=white)
 
 
-### 🚌 Top Langs & Algorithm
+<!-- ### 🚌 Top Langs & Algorithm
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jieun-moon&layout=compact)
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=______)](https://solved.ac/profile/______)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=______)](https://solved.ac/profile/______) -->
